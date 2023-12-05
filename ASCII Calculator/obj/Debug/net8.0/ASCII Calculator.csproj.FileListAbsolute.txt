@@ -1,0 +1,28 @@
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.exe
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.deps.json
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.runtimeconfig.json
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.dll
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.pdb
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.AssemblyInfoInputs.cache
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.AssemblyInfo.cs
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.dll
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\refint\ASCII Calculator.dll
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.pdb
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.genruntimeconfig.cache
+C:\Users\lukas\ASCII Calculator\ASCII Calculator\obj\Debug\net8.0\ref\ASCII Calculator.dll
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.exe
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.dll
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\refint\ASCII Calculator.dll
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.pdb
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.deps.json
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.runtimeconfig.json
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.dll
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\bin\Debug\net8.0\ASCII Calculator.pdb
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ASCII Calculator.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Desktop\ASCII-Calc-FINAL\ASCII Calculator\obj\Debug\net8.0\ref\ASCII Calculator.dll
